@@ -23,4 +23,3 @@ if st.button("Translate"):
         # Display the translated English text
         st.write("### Translated English Text:")
         st.write(english_text)
-
